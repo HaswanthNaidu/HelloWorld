@@ -3,5 +3,7 @@
 
 echo "welcome to PHP";
 
+echo "welcome to PHP Day 2";
+
 
 ?>

@@ -1,9 +1,9 @@
 <?php
 
 
-echo "welcome to PHP";
+echo "welcome to PHP Tutorials Day 1";
 
 echo "welcome to PHP Day 2";
 
-
+ 
 ?>
